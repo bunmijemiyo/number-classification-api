@@ -24,8 +24,8 @@ This API classifies a number with mathematical properties and fetches a fun fact
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/number-classifier-api.git
-   cd number-classifier-api
+   git clone https://github.com/bunmijemiyo/number-classification-api.git
+   cd number-classification-api
    ```
 
 2. Install dependencies:
